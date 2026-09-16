@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Updated: 2 July 2026. This version replaces the August 2020 policy. It adds the AI features, our current processors, international transfers, retention periods, cookies, and your rights. The revision history is on https://github.com/Legalcomplex/Privacy-Policy/
+Updated: 16 September 2026. This version adds the Chrome extension. The 2 July 2026 version replaced the August 2020 policy and added the AI features, our current processors, international transfers, retention periods, cookies, and your rights. The revision history is on https://github.com/Legalcomplex/Privacy-Policy/
 
 ## Who we are
 Legalcomplex is the trade name of the sole proprietorship (eenmanszaak) of R.M. Blijd, registered with the Trade Register of the Dutch Chamber of Commerce under number 71150072, VAT NL002364151B52, established at Jan de Louterstraat 113, 1063 KZ Amsterdam, Netherlands. R.M. Blijd is the data controller for the processing described in this policy. The Services are offered via legalcomplex.com, legalpioneer.org and sabaio.com. Contact: raymond@legalcomplex.com.
@@ -20,6 +20,10 @@ Account and usage data:
 Website statistics:
 
 - Your IP address, browser, language, referring site, visit time, and what you clicked. We use only our own server logs for this. We do not run third-party analytics or advertising trackers.
+
+Chrome extension:
+
+- If you install the Legalcomplex Import extension for Chrome, it reads the LinkedIn profile or company page you are viewing only when you click its button, shows you the sections it read, and sends the ones you keep to your Legalcomplex account over an encrypted connection. We store them as a pending import until you review them on your profile page, where you choose what to keep or dismiss them; kept sections become part of your professional context, which our research features use to personalise answers. The extension contacts no site other than legalcomplex.com, never accesses your LinkedIn password, and runs nothing in the background. You can revoke the extension's token on your profile page at any time.
 
 ## Why we process your data and on what legal basis
 

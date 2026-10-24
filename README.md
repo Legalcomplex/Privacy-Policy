@@ -4,7 +4,7 @@ The canonical Privacy Policy for **Legalcomplex**, **Legalpioneer** and **Sabaio
 
 - **Read it:** [PRIVACY-POLICY.md](PRIVACY-POLICY.md)
 - **Rendered on the site:** [legalcomplex.com/privacy-policy](https://legalcomplex.com/privacy-policy)
-- **Current version:** 2 July 2026, replacing the August 2020 policy
+- **Current version:** 24 October 2026, adding OpenRouter and TypeSafe for the review-or-draft decision. Earlier versions: 22 October, 20 October and 16 September 2026, and 2 July 2026, which replaced the August 2020 policy
 
 ## Why the policy lives in git
 
